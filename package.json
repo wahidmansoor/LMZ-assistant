@@ -1,11 +1,14 @@
 {
-      "name": "ai-assistant",
-      "version": "1.0.0",
-      "scripts": {
-        "dev": "vite"
-      },
-      "dependencies": {},
-      "devDependencies": {
-        "vite": "^4.2.0"
-      }
-    }
+  "name": "lmz-personal-ai-assistant",
+  "version": "1.0.0",
+  "description": "LMZ's Personal AI Assistant",
+  "main": "index.html",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "^4.2.0"
+  }
+}
