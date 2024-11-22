@@ -1,0 +1,11 @@
+{
+      "name": "ai-assistant",
+      "version": "1.0.0",
+      "scripts": {
+        "dev": "vite"
+      },
+      "dependencies": {},
+      "devDependencies": {
+        "vite": "^4.2.0"
+      }
+    }
